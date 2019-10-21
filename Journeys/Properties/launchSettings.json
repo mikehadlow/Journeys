@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Journeys": {
+      "commandName": "Project",
+      "commandLineArgs": "input.txt"
+    }
+  }
+}
