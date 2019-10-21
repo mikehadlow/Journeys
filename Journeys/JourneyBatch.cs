@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Linq;
 
+/// <summary>
+/// This file contains the data structures that describe a journey batch.
+/// </summary>
 namespace Journeys
 {
     public readonly struct JourneyBatch

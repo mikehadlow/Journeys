@@ -4,6 +4,11 @@ using Superpower.Parsers;
 
 namespace Journeys
 {
+    /// <summary>
+    /// This is a parser for a Journey Batch file.
+    /// It uses the excellent Superpower parser combinator library by Nicholas Blumhardt.
+    /// https://github.com/datalust/superpower
+    /// </summary>
     public static class JourneyBatchParser
     {
         static TextParser<Orientation> Orientation => 

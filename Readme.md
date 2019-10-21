@@ -1,7 +1,9 @@
 # Journeys
 
-A while back, a friend of mine went for a software development job. They gave him a little take home test that he also shared with me.
+A while back, a friend of mine applied for a software development job. They gave him a little take home test that he also shared with me.
 I really enjoyed the challenge. This repo contains my attempt at meeting it.
+
+### The Challenge
 
 You are given a file, something like this:
 ```
@@ -41,5 +43,10 @@ Each character is a command, either to turn (L = left, R = right) or to move for
 Finally the journey ends with another set of coordinates and a direction. This is the expected position and orientation of your robot at the 
 end of the journey. Your program should check that it ends at the specified coordinates and facing in the given direction.
 
-The challenge is to parse the input file, set the start position of your robot, then have it execute the instructions and check it's final postion with 
+The challenge is to parse the input file, set the start position of your robot, then have it execute the instructions and check its final postion with 
 the expected position.
+
+### My Implementation
+
+My solution to this challenge is implemented as a simple dotnet core 3.0 console application. To run it, simply clone this repository,
+open the solution in Visual Studio and hit F5. You can also build it and run it with the dotnet SDK.

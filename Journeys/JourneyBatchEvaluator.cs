@@ -4,6 +4,9 @@ using static System.Console;
 
 namespace Journeys
 {
+    /// <summary>
+    /// This evaluates a journey batch
+    /// </summary>
     public static class JourneyBatchEvaluator
     {
         public static void EvaluateJourneyBatch(JourneyBatch journeyBatch)
