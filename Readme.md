@@ -53,9 +53,12 @@ open the solution in Visual Studio and hit F5. You can also build it and run it 
 
 ### Other solutions
 
-[A Haskell solution by @ploeh](https://blog.ploeh.dk/2019/10/28/a-basic-haskell-solution-to-the-robot-journeys-coding-exercise/)
+[A Haskell solution](https://blog.ploeh.dk/2019/10/28/a-basic-haskell-solution-to-the-robot-journeys-coding-exercise/)
+by @ploeh
 
-[Another .NET solution by @djhmateer](https://github.com/djhmateer/Journeys)
+[Another .NET solution](https://github.com/djhmateer/Journeys)
+by @djhmateer
 
-[A Clojure solution by @devirr](https://gist.github.com/devirr/4b38992d858f98d5617998ac012928c6)
+[A Clojure solution](https://gist.github.com/devirr/4b38992d858f98d5617998ac012928c6)
+by @devirr
 
