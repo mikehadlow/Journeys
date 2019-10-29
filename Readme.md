@@ -50,3 +50,12 @@ the expected position.
 
 My solution to this challenge is implemented as a simple dotnet core 3.0 console application. To run it, simply clone this repository,
 open the solution in Visual Studio and hit F5. You can also build it and run it with the dotnet SDK.
+
+### Other solutions
+
+[A Haskell solution by @ploeh](https://blog.ploeh.dk/2019/10/28/a-basic-haskell-solution-to-the-robot-journeys-coding-exercise/)
+
+[Another .NET solution by @djhmateer](https://github.com/djhmateer/Journeys)
+
+[A Clojure solution by @devirr](https://gist.github.com/devirr/4b38992d858f98d5617998ac012928c6)
+
