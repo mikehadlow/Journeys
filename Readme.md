@@ -69,6 +69,8 @@ by @xdaDaveShaw
 by @willyjenkins
 
 [Another F# solution](https://github.com/ZaymonFC/ToyRobot)
-by @@ZedamonTheWise
+by @ZedamonTheWise
 
+[A solution in T-SQL](https://gist.github.com/isaksky/8f9dd4189d1563b49c038bff73ead181)
+by @isaksky
 
