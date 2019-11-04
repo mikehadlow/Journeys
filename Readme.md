@@ -68,4 +68,7 @@ by @xdaDaveShaw
 [A Javascript solution](https://gist.github.com/jenko3000/1193c3a6824be336940060c6f3f81490)
 by @willyjenkins
 
+[Another F# solution](https://github.com/ZaymonFC/ToyRobot)
+by @@ZedamonTheWise
+
 
