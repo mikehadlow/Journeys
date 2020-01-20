@@ -74,3 +74,6 @@ by @ZedamonTheWise
 [A solution in T-SQL](https://gist.github.com/isaksky/8f9dd4189d1563b49c038bff73ead181)
 by @isaksky
 
+[A solution in Wolfram Language (Mathematica)](https://www.wolframcloud.com/obj/henrik4/Published/journeys.nb)
+by Henrik Nielsen
+
