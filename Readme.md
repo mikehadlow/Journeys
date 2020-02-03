@@ -77,3 +77,6 @@ by @isaksky
 [A solution in Wolfram Language (Mathematica)](https://www.wolframcloud.com/obj/henrik4/Published/journeys.nb)
 by Henrik Nielsen
 
+[A solution in OCaml](https://github.com/erhangundogan/journeys)
+by Erhan Gundogan
+
