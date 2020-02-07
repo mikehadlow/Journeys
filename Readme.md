@@ -53,6 +53,8 @@ open the solution in Visual Studio and hit F5. You can also build it and run it 
 
 ### Other solutions
 
+All '@' mentions are Twitter handles where known.
+
 [A Haskell solution](https://blog.ploeh.dk/2019/10/28/a-basic-haskell-solution-to-the-robot-journeys-coding-exercise/)
 by @ploeh
 
@@ -79,4 +81,7 @@ by Henrik Nielsen
 
 [A solution in OCaml](https://github.com/erhangundogan/journeys)
 by Erhan Gundogan
+
+[A solution in Rust](https://github.com/d6y/journeys)
+by @d6y
 
