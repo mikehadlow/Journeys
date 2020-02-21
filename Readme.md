@@ -85,6 +85,9 @@ by Henrik Nielsen
 [A solution in OCaml](https://github.com/erhangundogan/journeys)
 by Erhan Gundogan
 
+[A solution using a state machine (xstate)](https://github.com/erhangundogan/journeys-state-machine)
+by Erhan Gundogan
+
 [A solution in Rust](https://github.com/d6y/journeys)
 by @d6y
 
